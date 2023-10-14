@@ -1,6 +1,6 @@
 # Twitter-Analytics
 
-In this project, I created a geographical representation using Twitter data spanning the United States. The map illustrates the varying sentiments of people from different states towards the dataset. The visual is produced through the following steps:
+Geographical representation using Twitter data spanning the United States. The map illustrates the varying sentiments of people from different states towards the dataset. The visual is produced through the following steps:
 
 - Gathering public Twitter posts (Tweets) that are associated with specific geographic locations.
 - Assigning a sentiment (either positive or negative) to each Tweet based on its textual content.
